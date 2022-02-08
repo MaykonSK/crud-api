@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25e03e5d-4c3e-4a01-80dd-e40930c5cb71": {
+      "ProjectGuid": "25e03e5d-4c3e-4a01-80dd-e40930c5cb71",
+      "DisplayName": "APICrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
